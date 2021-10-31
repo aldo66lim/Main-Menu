@@ -1,10 +1,12 @@
 # Main-Menu
-Ini adalah Main menu option in game
+This is a simple main menu
 
-UI yang dipakai hanya UI dasar, dan fokus ke mekanika-nya
-Ada menu:
+The UI used is the basic UI, and focuses on the mechanics
+Available options :
 - Play
 - Option
   - Volume
   - Back
 - Quit
+
+In future, I will add more Option.
